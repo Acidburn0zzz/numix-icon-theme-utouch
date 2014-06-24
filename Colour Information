@@ -1,3 +1,3 @@
 Background Color: rgb(255, 128, 64)
--> Bevel colour: rgb(255 / 1.25, 128 / 1.25, 64 / 1.25)
+-> Bevel colour: rgb(255 - 32, 128  - 32, 64 - 32)
 -> Triangle pattern alpha: (255 + 128 + 64) / 18 + 4

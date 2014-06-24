@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="0ad.svg">
+   sodipodi:docname="1E64_notepad.0.svg">
   <defs
      id="defs7" />
   <metadata
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      inkscape:window-height="697"
      id="namedview33"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="21.633675"
-     inkscape:cy="27.560024"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="-9.1254703"
+     inkscape:cy="22.560024"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
      inkscape:connector-curvature="0"
      d="m 47.437,11.547375 0,24.90625 c 0,10.25 0,10.984375 -10.984375,10.984375 l -24.902344,0 C 0.562,47.438 0.562,46.703625 0.562,36.453625 l 0,-24.90625 c 0,-10.2499996 0,-10.9843746 10.988281,-10.9843746 l 24.902344,0 C 47.437,0.5630004 47.437,1.2973754 47.437,11.547375 z"
      id="path11-8"
-     style="fill:#888888;fill-opacity:1" />
+     style="fill:#8a8a88;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      d="m 47.437,11.547375 0,20.906625 c 0,10.25 0,10.984 -10.984375,10.984 l -24.902344,0 C 0.562,43.438 0.562,42.704 0.562,32.454 l 0,-20.906625 c 0,-10.2500001 0,-10.9843751 10.988281,-10.9843751 l 24.902344,0 C 47.437,0.5629999 47.437,1.2973749 47.437,11.547375 z"
